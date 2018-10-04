@@ -14,6 +14,20 @@ Below you can find the definitions of words used in the ASD-DT course.
 ### Computer
 
 ### Algorithm
+#### (Alpha-Beta) Pruning ()
+#### Min-Max
+#### Tree-structure
+
+### Compiler
+
+### Languages
+#### Elm
+#### Ruby
+#### rust
+#### Functional programming
+##### Maybe
+
+
 
 
 [lexicon]: https://www.merriam-webster.com/dictionary/lexicon
