@@ -17,16 +17,30 @@ Below you can find the definitions of words used in the ASD-DT course.
 #### (Alpha-Beta) Pruning ()
 #### Min-Max
 #### Tree-structure
+#### A* search algorithm
+#### Big 'O'
 
 ### Compiler
+#### Just In Time (JIT) (On Runtime)
 
 ### Languages
 #### Elm
 #### Ruby
 #### rust
+
 #### Functional programming
 ##### Maybe
+##### Just
 
+### Package manager (NPM/Composer/Nugget/...)
+#### Install
+#### Build
+#### Update
+
+### Test Driven Development
+#### Red-Green-Refactor
+#### Unit tests
+#### Integration tests
 
 
 
